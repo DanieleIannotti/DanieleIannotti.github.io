@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Daniele Iannotti"
-  avatar           : "Me_black and white.jpg"
+  avatar           : "ME_cut_BW_dim.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Naples, Italy"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SbR9_rMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Daniele-Iannotti"
+  researchgate     : "https://www.researchgate.net/profile/Daniele-Iannotti"
   uri              :
   bitbucket        :
   codepen          :
